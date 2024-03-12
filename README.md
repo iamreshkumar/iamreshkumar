@@ -17,7 +17,7 @@
         </a>
         <a href="https://twitter.com/er_amreshkumar/" target="_blank">
             <img height="50"
-                src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png"
+                src="https://www.smsl-audio.com/upload/admin/undefined/LG05.png"
                 alt="Twitter" style="border: 2px solid #333; padding: 5px; margin: 5px; border-radius: 50%;">
         </a>
         <a href="https://www.instagram.com/amreshkumar/" target="_blank">
